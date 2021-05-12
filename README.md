@@ -14,7 +14,7 @@ This package has been created with [vite](https://vitejs.dev)
 #### Installation
 
 ```
-npx degit @pubcore/vite-mui «my-project»
+npx degit pubcore/vite-mui «my-project»
 cd «my-project»
 
 npm install
